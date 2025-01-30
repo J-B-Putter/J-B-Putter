@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ## I know Delphi. 
-# YAY!!
+# YAY!! 😆
+
+![](https://media.tenor.com/krjGu8PG5KkAAAAM/michael-rosen.gif)
 <!--
 **J-B-Putter/J-B-Putter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
