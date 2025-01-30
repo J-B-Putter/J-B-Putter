@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-# grootseun
-
-___
-## This is Nice
-- "lekke"
-- ☺
+## I know Delphi. 
+# YAY!!
 <!--
 **J-B-Putter/J-B-Putter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
